@@ -34,7 +34,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 
-<a href="https://www.github.com/Chidori42" target="_blank" rel="noreferrer">
+<a href="https://github.com/Chidori42?tab=followers" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/mohimi-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" />
 </a>
 <a href="https://x.com/Abdellatif_El_0" target="_blank" rel="noreferrer"> </a>
