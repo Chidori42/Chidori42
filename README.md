@@ -1,7 +1,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&section=header&reversal=false&textBg=false&fontAlign=50&animation=blinking&rotate=0&strokeWidth=3&descAlign=62&descAlignY=100" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20I'm%20Abdellatif.%20Welcome!&section=header&reversal=false&textBg=false&fontAlign=50&animation=blinking&rotate=0&strokeWidth=1&descAlign=62&descAlignY=76&fontSize=37" alt="header" width="100%" />
 <samp>
 i'm a student in 1337 coding school, 42 The Network<br>
 You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/abdellatif-el-fagrouch/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
