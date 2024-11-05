@@ -1,10 +1,10 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hi,%20I'm%20Mohamed.%20Welcome!&fontSize=24&fontAlignY=32&animation=twinkling" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hi,%20I'm%20Abdellatif.%20Welcome!&fontSize=24&fontAlignY=32&animation=twinkling" alt="header" width="100%" />
 <samp>
 i'm a student in 1337 coding school, 42 The Network<br>
-You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/mohamed-himi1/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
+You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/abdellatif-el-fagrouch/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
  </samp>
  
 
@@ -19,7 +19,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mohimi" alt="mohimi's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ael-fagr" alt="ael-fagr's 42 stats" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
@@ -152,4 +152,6 @@ src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-t
   > :placard: Digital Signage and Billboards
 
   > ✋Kiosks
+> 
+
    
