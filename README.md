@@ -67,7 +67,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 ## :artist: Current Design Skills
 
-[![My Skills](https://skillicons.dev/icons?i=figma,github,html,css,js,python,blander)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,github,html,css,js,python,blander,git)](https://skillicons.dev)
 
 <br>
 > :desktop_computer:  Design Tools - Figma | Adobe XD | Canva | Sketch | InVision | Balsamiq | Marvel | Proto
