@@ -70,13 +70,13 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 [![My Skills](https://skillicons.dev/icons?i=figma,github,html,css,js,python,blender,git,c,cpp,discord,linux)](https://skillicons.dev)
 
 <br>
-> :desktop_computer:  Design Tools - Figma | Adobe XD | Canva | Sketch | InVision | Balsamiq | Marvel | Proto
+> :desktop_computer:  Design Tools - Figma | blender
 
-> 🛌 Digital Suites - Adobe Suite | Microsoft Office | Google Suite
+> 🛌 Digital Suites - Microsoft Office
 
-> 🗣️ Team Tools - Slack | Miro | Trello | Notion | Mural | Jira | Asana
+> 🗣️ Team Tools - Slack | discord
 
-> 🖥️ Web Design and Development - Framer | Wix | Webflow | Wordpress
+> 🖥️ Web Design and Development - 
 
 <details>
   <summary>💻 See More Design Skills</summary>
