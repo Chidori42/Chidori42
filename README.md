@@ -35,7 +35,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 
 <a href="https://github.com/Chidori42?tab=followers" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/mohimi-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" />
+<img src="https://img.shields.io/github/followers/Chidori42?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" />
 </a>
 <a href="https://x.com/Abdellatif_El_0" target="_blank" rel="noreferrer"> </a>
 
