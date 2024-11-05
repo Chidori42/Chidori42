@@ -55,7 +55,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 <a href="http://www.github.com/Chidori42"><img src="https://github-readme-stats.vercel.app/api?username=Chidori42&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Chidori42's GitHub stats" /></a>
 
-<a href="http://www.github.com/Chidori42r"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chidori42&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Chidori42"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chidori42&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Chidori42" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chidori42&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
