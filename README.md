@@ -25,19 +25,19 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 
 * I love code!
-* 🌍  I'm based in Ouarzazate city, Morroco
-* ✉️  You can contact me at [mohimi1337@gmail.com](mailto:mohimi1337@gmail.com)
-* 🚀  I'm currently working on [learning programming languages]
+* 🌍  I'm based in TATA city, Morroco
+* ✉️  You can contact me at [rcabdw@gmail.com]
+* 🚀  I'm currently working on Net_Practice
 * 🧠  I'm learning c programming language and other languages!
-* 🤝  I'm open to collaborating on c programming language, or python!
+* 🤝  I'm open to collaborating on c programming language
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 
-<a href="https://www.github.com/mohimi-coder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mohimi-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/Himi Mohamed" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
+<a href="https://www.github.com/Chidori42" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/mohimi-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" />
+</a>
+<a href="https://x.com/Abdellatif_El_0" target="_blank" rel="noreferrer"> </a>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
