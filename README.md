@@ -1,11 +1,11 @@
 
-![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://i.gifer.com/fyrV.gif)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Abdellatif.%20Welcome!" />
 <samp>
 i'm a student in 1337 coding school, 42 The Network<br>
 You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/abdellatif-el-fagrouch/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
  </samp>
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://i.gifer.com/fyrV.gif)
  
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
