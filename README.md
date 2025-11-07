@@ -27,9 +27,9 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 * I love code!
 * 🌍  I'm based in TATA city, Morroco
 * ✉️  You can contact me at [rcabdw@gmail.com]
-* 🚀  I'm currently working on Net_Practice
+* 🚀  I'm currently working on Ft_transandance
 * 🧠  I'm learning c programming language and other languages!
-* 🤝  I'm open to collaborating on c programming language
+* 🤝  I'm open to collaborating on web dev
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
