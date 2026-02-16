@@ -269,7 +269,7 @@ I'm always interested in hearing about new projects and opportunities. Whether y
 
 **📧 Email:** rcabdw@gmail.com  
 **📍 Location:** Tata, Morocco 🇲🇦  
-**🌐 Portfolio:** Coming Soon...
+**🌐 Portfolio:** https://abdellatifelfagrouch.me/
 
 </div>
 
