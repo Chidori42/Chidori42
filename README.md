@@ -257,7 +257,7 @@ I'm always interested in hearing about new projects and opportunities. Whether y
   <a href="https://x.com/Abdellatif_El_0">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/1053858409365127238">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
