@@ -77,9 +77,6 @@ philosophy: |
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chidori42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=667fff&icon_color=facc15&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chidori42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=667fff&text_color=c9d1d9&border_radius=10" alt="Top Languages" />
 
 <!-- Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chidori42&theme=tokyonight&hide_border=true&background=0d1117&ring=667fff&fire=facc15&currStreakLabel=667fff&border_radius=10" alt="GitHub Streak" width="60%" />
