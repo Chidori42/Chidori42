@@ -222,7 +222,7 @@ graph LR
 
 <div align="center">
 
-**🔭 Currently working on:** ft_transcendence - Real-time multiplayer game platform  
+**🔭 Currently working on:** ft_transcendence - Smart Applicant Tracking System  
 **🌱 Learning:** Advanced TypeScript, Docker orchestration, System design patterns  
 **💡 Open to:** Collaboration on open source projects, internship opportunities  
 **⚡ Fun fact:** I debug with console.log and I'm not ashamed to admit it 😄
