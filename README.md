@@ -158,9 +158,9 @@ philosophy: |
 ### 🎮 ft_transcendence
 **Full Stack Web Application**
 
-A multiplayer Pong game with real-time features, user authentication, and social interactions.
+Smart Applicant Tracking System. A modern hiring platform designed to bridge the gap between recruiters and candidates.
 
-**Tech:** Next.js, Prisma, PostgreSQL, WebSocket
+**Tech:** React.js, Prisma, Mariadb, WebSocket
 
 [![Repo](https://img.shields.io/badge/View_Project-667fff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chidori42)
 
