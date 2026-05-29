@@ -28,7 +28,7 @@
 ```yaml
 name: Abdellatif El Fagrouch
 located_in: Tata, Morocco 🇲🇦
-current_focus: ft_transcendence @ 1337
+current_focus: Minarah @ a quran platform
 education: 42 Network - 1337 Coding School
 
 interests:
@@ -155,7 +155,7 @@ philosophy: |
 <tr>
 <td width="50%">
 
-### 🎮 ft_transcendence
+### 🎮 Hirefy
 **Full Stack Web Application**
 
 Smart Applicant Tracking System. A modern hiring platform designed to bridge the gap between recruiters and candidates.
@@ -222,7 +222,7 @@ graph LR
 
 <div align="center">
 
-**🔭 Currently working on:** ft_transcendence - Smart Applicant Tracking System  
+**🔭 Currently working on:** Minarah - A comprehensive full-stack web application for Muslim community engagement featuring real-time chat, Quran reading, Hadith collection, Qurra directory, and Q&A system.
 **🌱 Learning:** Advanced TypeScript, Docker orchestration, System design patterns  
 **💡 Open to:** Collaboration on open source projects, internship opportunities  
 **⚡ Fun fact:** I debug with console.log and I'm not ashamed to admit it 😄
@@ -264,7 +264,7 @@ I'm always interested in hearing about new projects and opportunities. Whether y
 
 <br>
 
-**📧 Email:** rcabdw@gmail.com  
+**📧 Email:** elfagrouch9@gmail.com  
 **📍 Location:** Tata, Morocco 🇲🇦  
 **🌐 Portfolio:** https://abdellatifelfagrouch.me/
 
